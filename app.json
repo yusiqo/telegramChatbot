@@ -28,10 +28,10 @@
       "required": true,
       "value": "-191010..."
     },
-    "NUMBER": {
-      "description": "Your Phone Number",
+    "SESSION": {
+      "description": "Your account session (pyrogram)",
       "required": true,
-      "value": "+9943131..."
+      "value": "..."
     },
     
   }
