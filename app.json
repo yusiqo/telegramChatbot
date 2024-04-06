@@ -1,0 +1,33 @@
+{
+  "name": "Chatbot By Lord",
+  "description": "Lord Siker izi qalar",
+  "logo": "https://te.legra.ph/file/dc32c85de4f1ad9b3456b.jpg",
+  "keywords": [
+    "Chatbot",
+    "mongodb",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "repository": "https://github.com/yusiqo/telegramChatbot/",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from my.telegram.org/apps.",
+      "required": true,
+      "value": "29990172"
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org/apps.",
+      "required": true,
+      "value": "d76936ea313a140516435843f37959f3"
+    },
+    "NUMBER": {
+      "description": "Your Phone Number",
+      "required": true,
+      "value": "+9943131..."
+    },
+    
+  }
+}
