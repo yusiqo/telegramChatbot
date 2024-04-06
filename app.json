@@ -32,7 +32,7 @@
       "description": "Your account session (pyrogram)",
       "required": true,
       "value": "..."
-    },
+    }
     
   }
 }
