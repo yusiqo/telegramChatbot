@@ -23,6 +23,11 @@
       "required": true,
       "value": "d76936ea313a140516435843f37959f3"
     },
+    "CHAT_ID": {
+      "description": "CHAT ID",
+      "required": true,
+      "value": "-191010..."
+    },
     "NUMBER": {
       "description": "Your Phone Number",
       "required": true,
