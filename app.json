@@ -26,12 +26,12 @@
     "CHAT_ID": {
       "description": "CHAT ID",
       "required": true,
-      "value": "-191010..."
+      "value": "-191010"
     },
     "SESSION": {
       "description": "Your account session (pyrogram)",
       "required": true,
-      "value": "..."
+      "value": "jekdkwks"
     }
     
   }
