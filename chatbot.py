@@ -11,7 +11,7 @@ api_hash = getenv("API_HASH", "d76936ea313a140516435843f37959f3")
 chat_id = int(getenv("CHAT_ID", "-1001907080749"))
 session = getenv("SESSION", "d76936ea313a140516435843f37959f3")
 
-app = Client(session_name="my_account", session_string=str(session), api_id, api_hash, no_updates=True)
+app = Client(name="my_account", session_string=str(session), api_id=api_id, api_hash=api_hash, no_updates=True)
 
 async def send_random_message():
     # İşleme geçmeden önce bir süre bekleyebilirsiniz
